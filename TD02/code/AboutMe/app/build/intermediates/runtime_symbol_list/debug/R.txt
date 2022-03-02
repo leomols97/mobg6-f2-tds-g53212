@@ -26,6 +26,13 @@ int anim design_bottom_sheet_slide_in 0x7f010018
 int anim design_bottom_sheet_slide_out 0x7f010019
 int anim design_snackbar_in 0x7f01001a
 int anim design_snackbar_out 0x7f01001b
+int anim fragment_close_enter 0x7f01001f
+int anim fragment_close_exit 0x7f010020
+int anim fragment_fade_enter 0x7f010021
+int anim fragment_fade_exit 0x7f010022
+int anim fragment_fast_out_extra_slow_in 0x7f010023
+int anim fragment_open_enter 0x7f010024
+int anim fragment_open_exit 0x7f010025
 int anim mtrl_bottom_sheet_slide_in 0x7f01001c
 int anim mtrl_bottom_sheet_slide_out 0x7f01001d
 int anim mtrl_card_lowers_interpolator 0x7f01001e
@@ -2529,6 +2536,7 @@ int id counterclockwise 0x7f090077
 int id custom 0x7f090078
 int id customPanel 0x7f090079
 int id cut 0x7f09007a
+int id dataBinding 0x7f0901a9
 int id date_picker_actions 0x7f09007b
 int id decelerate 0x7f09007c
 int id decelerateAndComplete 0x7f09007d
@@ -2577,6 +2585,7 @@ int id fixed 0x7f0900a6
 int id flip 0x7f0900a7
 int id floating 0x7f0900a8
 int id forever 0x7f0900a9
+int id fragment_container_view_tag 0x7f0901aa
 int id ghost_view 0x7f0900aa
 int id ghost_view_holder 0x7f0900ab
 int id gone 0x7f0900ac
@@ -2685,6 +2694,8 @@ int id notification_main_column 0x7f090111
 int id notification_main_column_container 0x7f090112
 int id off 0x7f090113
 int id on 0x7f090114
+int id onAttachStateChangeListener 0x7f0901ab
+int id onDateChanged 0x7f0901ac
 int id outline 0x7f090115
 int id outward 0x7f090116
 int id packed 0x7f090117
@@ -2793,6 +2804,7 @@ int id textSpacerNoButtons 0x7f09017d
 int id textSpacerNoTitle 0x7f09017e
 int id textStart 0x7f09017f
 int id textTop 0x7f090180
+int id textWatcher 0x7f0901ad
 int id text_input_end_icon 0x7f090181
 int id text_input_error_icon 0x7f090182
 int id text_input_start_icon 0x7f090183
@@ -2825,6 +2837,7 @@ int id up 0x7f09019d
 int id useLogo 0x7f09019e
 int id view_offset_helper 0x7f09019f
 int id visible 0x7f0901a0
+int id visible_removing_fragment_view_tag 0x7f0901ae
 int id withText 0x7f0901a1
 int id withinBounds 0x7f0901a2
 int id wrap 0x7f0901a3
@@ -4992,6 +5005,13 @@ int[] styleable ForegroundLinearLayout { 0x01010109, 0x01010200, 0x7f0301a4 }
 int styleable ForegroundLinearLayout_android_foreground 0
 int styleable ForegroundLinearLayout_android_foregroundGravity 1
 int styleable ForegroundLinearLayout_foregroundInsidePadding 2
+int[] styleable Fragment { 0x01010003, 0x010100d0, 0x010100d1 }
+int styleable Fragment_android_name 0
+int styleable Fragment_android_id 1
+int styleable Fragment_android_tag 2
+int[] styleable FragmentContainerView { 0x01010003, 0x010100d1 }
+int styleable FragmentContainerView_android_name 0
+int styleable FragmentContainerView_android_tag 1
 int[] styleable GradientColor { 0x0101019d, 0x0101019e, 0x010101a1, 0x010101a2, 0x010101a3, 0x010101a4, 0x01010201, 0x0101020b, 0x01010510, 0x01010511, 0x01010512, 0x01010513 }
 int styleable GradientColor_android_startColor 0
 int styleable GradientColor_android_endColor 1

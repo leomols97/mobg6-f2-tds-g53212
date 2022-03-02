@@ -57,6 +57,17 @@
 40-->/Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD02/code/AboutMe/app/src/main/AndroidManifest.xml:32:27-74
 41            </intent-filter>
 42        </activity>
-43    </application>
-44
-45</manifest>
+43
+44        <provider
+44-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d8756e38201c25496648170f5a672935/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+45            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+45-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d8756e38201c25496648170f5a672935/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+46            android:authorities="com.android.example.aboutme.lifecycle-process"
+46-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d8756e38201c25496648170f5a672935/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+47            android:exported="false"
+47-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d8756e38201c25496648170f5a672935/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+48            android:multiprocess="true" />
+48-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d8756e38201c25496648170f5a672935/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+49    </application>
+50
+51</manifest>
