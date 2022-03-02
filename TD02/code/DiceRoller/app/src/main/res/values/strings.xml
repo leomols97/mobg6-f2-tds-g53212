@@ -2,5 +2,4 @@
     <string name="app_name">DiceRoller</string>
     <string name="roll_the_dice">Roll the dice</string>
     <string name="count_up">Count up</string>
-    <string name="diceimage">DiceImage</string>
 </resources>
