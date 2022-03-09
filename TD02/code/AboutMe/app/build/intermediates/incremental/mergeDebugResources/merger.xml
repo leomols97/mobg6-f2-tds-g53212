@@ -8894,7 +8894,7 @@
         <item name="android:paddingTop">@dimen/small_padding</item>
         <item name="android:textColor">@android:color/black</item>
         <item name="android:textSize">@dimen/text_size</item>
-    </style></file><file path="/Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD02/code/AboutMe/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">AboutMe</string><string name="name">Aleks Haecky</string><string name="yellow_star">Yellow star</string><string name="bio">Hi, my name is Aleks.
+    </style></file><file path="/Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD02/code/AboutMe/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">AboutMe</string><string name="name">Léopold Mols</string><string name="yellow_star">Yellow star</string><string name="bio">Hi, my name is Aleks.
 \n\nI love fish.
 \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
 \nFun fact is that I have several aquariums and also a river.
