@@ -1,4 +1,4 @@
-#Thu Mar 17 12:22:22 CET 2022
+#Thu Mar 17 17:43:27 CET 2022
 base.0=/Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
