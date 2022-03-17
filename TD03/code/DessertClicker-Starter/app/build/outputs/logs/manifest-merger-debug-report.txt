@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/3440df5801571a3b9986d39d2f4e5d19/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/9db3eafc38614bf67749e0c1a4eb109d/transformed/jetified-databinding-ktx-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/6e27bba823227581f6be12370c6f944f/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/leopoldmols/.gradle/caches/transforms-3/0f84f325c5dd00cc5c7c72ea1943cf42/transformed/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/leopoldmols/.gradle/caches/transforms-3/4bdfad730a87954b8d1a46a767e139b9/transformed/constraintlayout-2.0.0-rc1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/88b5862f7f200365d213d1ed9065ddc4/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/38b4dd8f1f8704d4016b7988bbde63e5/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/0aac9bd9b9686c617bea464cef1bc202/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5a9bac6633c1bd3e82add713a3d991aa/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/98b0f67c46a24be7feb176a05738c4a1/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/5302cf69e41d95e3d46519cb1d3a4b38/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/bc58f8db164e093a84782f79beda8c53/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/00dfe4e0884ed2236dc9b7d063439962/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/7d03a5b15c3c996780bfbced8e5a12ad/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/a143b535edf6df6d882e1eaca686bfdf/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/83c5564960da6e9cca51f4e2951f324c/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/leopoldmols/.gradle/caches/transforms-3/87187e9f1167483d03265f9d089dae85/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/23bdda2a25371122b513a028c6c80463/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/85b088be51d330097a832e22dc2bc47b/transformed/jetified-viewbinding-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/c3cd9cb3cec0a0534f3065e9584c18e8/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/6c149d559c3ae700641e5d017e399db7/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/cca8defc7c575befb839f74354569587/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/bc02857905400306b74abab626e0fde0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5c823a91976a81d1524e44e540fa3b9a/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/75ac1cb88f6cb85760375f475d803bd1/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/648cd23be68882a952a7e8919b79c588/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/a47765da51f82964ff88545bdc8540ea/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/56b1e2fe866232edd3ec9c7dc8a7d394/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d3c11dbe5b80f9c00dc17e560dc70017/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/ad0724863ee5da847635e3bd2001ba2d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:20:5-35:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/leopoldmols/.gradle/caches/transforms-3/0f84f325c5dd00cc5c7c72ea1943cf42/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/leopoldmols/.gradle/caches/transforms-3/0f84f325c5dd00cc5c7c72ea1943cf42/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/leopoldmols/.gradle/caches/transforms-3/4bdfad730a87954b8d1a46a767e139b9/transformed/constraintlayout-2.0.0-rc1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/leopoldmols/.gradle/caches/transforms-3/4bdfad730a87954b8d1a46a767e139b9/transformed/constraintlayout-2.0.0-rc1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5a9bac6633c1bd3e82add713a3d991aa/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5a9bac6633c1bd3e82add713a3d991aa/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.0] /Users/leopoldmols/.gradle/caches/transforms-3/87187e9f1167483d03265f9d089dae85/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/leopoldmols/.gradle/caches/transforms-3/87187e9f1167483d03265f9d089dae85/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/23bdda2a25371122b513a028c6c80463/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/23bdda2a25371122b513a028c6c80463/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/leopoldmols/.gradle/caches/transforms-3/87187e9f1167483d03265f9d089dae85/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:25:9-61
+	android:icon
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:23:9-50
+	android:allowBackup
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:21:9-43
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/3440df5801571a3b9986d39d2f4e5d19/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/3440df5801571a3b9986d39d2f4e5d19/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/9db3eafc38614bf67749e0c1a4eb109d/transformed/jetified-databinding-ktx-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/9db3eafc38614bf67749e0c1a4eb109d/transformed/jetified-databinding-ktx-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/6e27bba823227581f6be12370c6f944f/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/6e27bba823227581f6be12370c6f944f/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/leopoldmols/.gradle/caches/transforms-3/0f84f325c5dd00cc5c7c72ea1943cf42/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/leopoldmols/.gradle/caches/transforms-3/0f84f325c5dd00cc5c7c72ea1943cf42/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/leopoldmols/.gradle/caches/transforms-3/4bdfad730a87954b8d1a46a767e139b9/transformed/constraintlayout-2.0.0-rc1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/leopoldmols/.gradle/caches/transforms-3/4bdfad730a87954b8d1a46a767e139b9/transformed/constraintlayout-2.0.0-rc1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/88b5862f7f200365d213d1ed9065ddc4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/88b5862f7f200365d213d1ed9065ddc4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/38b4dd8f1f8704d4016b7988bbde63e5/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/38b4dd8f1f8704d4016b7988bbde63e5/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/0aac9bd9b9686c617bea464cef1bc202/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/0aac9bd9b9686c617bea464cef1bc202/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5a9bac6633c1bd3e82add713a3d991aa/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5a9bac6633c1bd3e82add713a3d991aa/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/98b0f67c46a24be7feb176a05738c4a1/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/98b0f67c46a24be7feb176a05738c4a1/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/5302cf69e41d95e3d46519cb1d3a4b38/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/5302cf69e41d95e3d46519cb1d3a4b38/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/bc58f8db164e093a84782f79beda8c53/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/bc58f8db164e093a84782f79beda8c53/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/00dfe4e0884ed2236dc9b7d063439962/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/00dfe4e0884ed2236dc9b7d063439962/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/7d03a5b15c3c996780bfbced8e5a12ad/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/7d03a5b15c3c996780bfbced8e5a12ad/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/a143b535edf6df6d882e1eaca686bfdf/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/a143b535edf6df6d882e1eaca686bfdf/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/83c5564960da6e9cca51f4e2951f324c/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/83c5564960da6e9cca51f4e2951f324c/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/leopoldmols/.gradle/caches/transforms-3/87187e9f1167483d03265f9d089dae85/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/leopoldmols/.gradle/caches/transforms-3/87187e9f1167483d03265f9d089dae85/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/23bdda2a25371122b513a028c6c80463/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/23bdda2a25371122b513a028c6c80463/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/85b088be51d330097a832e22dc2bc47b/transformed/jetified-viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/leopoldmols/.gradle/caches/transforms-3/85b088be51d330097a832e22dc2bc47b/transformed/jetified-viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/c3cd9cb3cec0a0534f3065e9584c18e8/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/c3cd9cb3cec0a0534f3065e9584c18e8/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/6c149d559c3ae700641e5d017e399db7/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/6c149d559c3ae700641e5d017e399db7/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/cca8defc7c575befb839f74354569587/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/cca8defc7c575befb839f74354569587/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/bc02857905400306b74abab626e0fde0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/bc02857905400306b74abab626e0fde0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5c823a91976a81d1524e44e540fa3b9a/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/5c823a91976a81d1524e44e540fa3b9a/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/75ac1cb88f6cb85760375f475d803bd1/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/75ac1cb88f6cb85760375f475d803bd1/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/648cd23be68882a952a7e8919b79c588/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/648cd23be68882a952a7e8919b79c588/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/a47765da51f82964ff88545bdc8540ea/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/a47765da51f82964ff88545bdc8540ea/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/56b1e2fe866232edd3ec9c7dc8a7d394/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leopoldmols/.gradle/caches/transforms-3/56b1e2fe866232edd3ec9c7dc8a7d394/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d3c11dbe5b80f9c00dc17e560dc70017/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/d3c11dbe5b80f9c00dc17e560dc70017/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/ad0724863ee5da847635e3bd2001ba2d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leopoldmols/.gradle/caches/transforms-3/ad0724863ee5da847635e3bd2001ba2d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leopoldmols/Desktop/ESI/3eme/Quadri2/MOBG6/TDs/g53212/TD03/code/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/leopoldmols/.gradle/caches/transforms-3/2326e1fd36abfb2a693ffc71e6591398/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
