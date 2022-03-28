@@ -65,11 +65,13 @@
             android:layout_height="wrap_content"
             android:text="@string/play_again"
             android:theme="@style/GoButton"
-            android:visibility="gone"
+            android:visibility="visible"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.815" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
