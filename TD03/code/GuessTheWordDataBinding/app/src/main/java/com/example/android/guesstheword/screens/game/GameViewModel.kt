@@ -97,6 +97,7 @@ class GameViewModel : ViewModel() {
         _score.value = (_score.value)?.minus(1)
         nextWord()
     }
+
     fun onCorrect() {
         _score.value = (_score.value)?.plus(1)
         nextWord()
@@ -114,8 +115,6 @@ class GameViewModel : ViewModel() {
             _word.value = wordList.removeAt(0)
         }
     }
-
-
 
     /** Method for the game completed event **/
 
