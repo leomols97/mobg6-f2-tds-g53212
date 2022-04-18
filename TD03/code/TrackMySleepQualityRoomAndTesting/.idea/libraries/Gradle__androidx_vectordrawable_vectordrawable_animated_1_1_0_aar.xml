@@ -3,10 +3,15 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db697c41399167036951bf576b75255f/vectordrawable-animated-1.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6035fec03a8422fb1dccab839bd50e/transformed/vectordrawable-animated-1.1.0/res" />
+<<<<<<< HEAD
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2405db1391bf6de5d979248c4b5a9cf/transformed/vectordrawable-animated-1.1.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4afe4e0ea8169a198f44532662343c14/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4afe4e0ea8169a198f44532662343c14/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4afe4e0ea8169a198f44532662343c14/transformed/vectordrawable-animated-1.1.0/res" />
+=======
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6035fec03a8422fb1dccab839bd50e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/de6035fec03a8422fb1dccab839bd50e/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
+>>>>>>> dc28fc297aba5118235ccfd53711f51adecb0d96
     </CLASSES>
     <JAVADOC />
     <SOURCES>
