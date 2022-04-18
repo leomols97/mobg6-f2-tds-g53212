@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020942647996",
+    "project_id": "test1-bdcfe",
+    "storage_bucket": "test1-bdcfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020942647996:android:3bfcd9998b205840edc6b9",
+        "android_client_info": {
+          "package_name": "com.example.testrealtimedatabasekotlin_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020942647996-i52ucganfli9jtj5s93fv02rupgj63bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3FndlMzhbNj-Vp7ItlNZXyuQrLpdGFqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020942647996-i52ucganfli9jtj5s93fv02rupgj63bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
