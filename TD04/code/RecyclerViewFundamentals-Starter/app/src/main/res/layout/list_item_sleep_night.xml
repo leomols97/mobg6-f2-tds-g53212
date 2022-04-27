@@ -23,7 +23,12 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:srcCompat="@drawable/ic_sleep_5" />
+            tools:srcCompat="@drawable/ic_sleep_5"
+            app:sleepImage="@{sleep}" />
+            <!-- The binding adapters take care of all the work of
+            formatting and updating the views as the data changes,
+            simplifying the ViewHolder and giving the code
+            much better structure than it had before.-->
 
         <TextView
             android:id="@+id/sleep_length"
@@ -35,7 +40,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/quality_image"
             app:layout_constraintTop_toTopOf="@+id/quality_image"
-            tools:text="Wednesday" />
+            tools:text="Wednesday"
+            app:sleepDurationFormatted="@{sleep}" />
 
         <TextView
             android:id="@+id/quality_string"
@@ -46,6 +52,7 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="@+id/sleep_length"
             app:layout_constraintTop_toBottomOf="@+id/sleep_length"
-            tools:text="Excellent!!!" />
+            tools:text="Excellent!!!"
+            app:sleepQualityString="@{sleep}"/>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

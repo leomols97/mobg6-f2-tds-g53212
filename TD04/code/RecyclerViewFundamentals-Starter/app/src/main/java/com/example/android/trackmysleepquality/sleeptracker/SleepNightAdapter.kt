@@ -13,6 +13,23 @@ import com.example.android.trackmysleepquality.databinding.ListItemSleepNightBin
 // SleepNightAdapter.ViewHolder vient de la classe que j'ai créée DANS la classe SleepNightAdapter
 class SleepNightAdapter : androidx.recyclerview.widget.ListAdapter<SleepNight, SleepNightAdapter.ViewHolder>(SleepNightDiffCallback()) {
 
+    /**
+     * DiffUtil
+
+    RecyclerView has a class called DiffUtil which is for calculating the differences between two lists.
+    DiffUtil has a class called ItemCallBack that you extend in order to figure out the difference between two lists.
+    In the ItemCallback class, you must override the areItemsTheSame() and areContentsTheSame() methods.
+    ListAdapter
+
+    To get some list management for free,
+    you can use the ListAdapter class instead of RecyclerView.Adapter.
+    However, if you use ListAdapter you have to write your own adapter for other layouts,
+    which is why this codelab shows you how to do it.
+    To open the intention menu in Android Studio,
+    place the cursor on any item of code and press Alt+Enter.
+    This menu is particularly helpful for refactoring code and creating stubs for implementing methods.
+    The menu is context-sensitive, so you need to place the cursor exactly to get the correct menu.
+     */
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val item = getItem(position)
         holder.bind(item)
@@ -26,24 +43,11 @@ class SleepNightAdapter : androidx.recyclerview.widget.ListAdapter<SleepNight, S
 
 
         fun bind(item: SleepNight) {
-            val res = itemView.context.resources
-            binding.sleepLength.text = convertDurationToFormatted(
-                item.startTimeMilli, item.endTimeMilli, res
-            )
-            binding.qualityString.text = convertNumericQualityToString(
-                item.sleepQuality, res
-            )
-            binding.qualityImage.setImageResource(
-                when (item.sleepQuality) {
-                    0 -> R.drawable.ic_sleep_0
-                    1 -> R.drawable.ic_sleep_1
-                    2 -> R.drawable.ic_sleep_2
-                    3 -> R.drawable.ic_sleep_3
-                    4 -> R.drawable.ic_sleep_4
-                    5 -> R.drawable.ic_sleep_5
-                    else -> R.drawable.ic_sleep_active
-                }
-            )
+            binding.sleep = item
+            /* Pour de l'optimisation du biiniding qui dépend de la variable 'sleep'
+                Cela permet aussi de gagner du temps sur le dimensionnage des fepêtres
+             */
+            binding.executePendingBindings()
         }
     }
 
