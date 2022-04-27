@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../../../../../../../layout/custom_preview.xml" value="0.2851851851851852" />
         <entry key="app/src/main/res/layout/fragment_sleep_quality.xml" value="0.18125" />
         <entry key="app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.21457570393880207" />
         <entry key="app/src/main/res/layout/list_item_sleep_night.xml" value="0.18125" />
