@@ -7,6 +7,9 @@
         <variable
             name="sleep"
             type="com.example.android.trackmysleepquality.database.SleepNight"/>
+        <variable
+            name="clickListener"
+            type="com.example.android.trackmysleepquality.sleeptracker.SleepNightListener" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -24,7 +27,8 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:srcCompat="@drawable/ic_sleep_5"
-            app:sleepImage="@{sleep}" />
+            app:sleepImage="@{sleep}"
+            android:onClick="@{() -> clickListener.onClick(sleep)}" />
             <!-- The binding adapters take care of all the work of
             formatting and updating the views as the data changes,
             simplifying the ViewHolder and giving the code
